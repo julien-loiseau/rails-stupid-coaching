@@ -1,0 +1,49 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;1,300&display=swap');
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+form {
+  margin-left: 20px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+.italic {
+  font-style: italic;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  text-decoration: none;
+  color: #8ECCF2;
+  margin-left: 20px;
+}
+
+.left-border {
+  border-left: 5px solid #DDDDDD;
+  padding: 0.5px 16px;
+  margin: 20px 20px;
+}
+
+.yellow {
+  background-color: #FFFFE1;
+  width: 40%
+}
